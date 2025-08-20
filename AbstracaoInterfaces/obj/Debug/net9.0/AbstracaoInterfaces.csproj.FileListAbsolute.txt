@@ -1,0 +1,15 @@
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\bin\Debug\net9.0\AbstracaoInterfaces.exe
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\bin\Debug\net9.0\AbstracaoInterfaces.deps.json
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\bin\Debug\net9.0\AbstracaoInterfaces.runtimeconfig.json
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\bin\Debug\net9.0\AbstracaoInterfaces.dll
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\bin\Debug\net9.0\AbstracaoInterfaces.pdb
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\AbstracaoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\AbstracaoInterfaces.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\AbstracaoInterfaces.AssemblyInfo.cs
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\AbstracaoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\AbstracaoInterfaces.sourcelink.json
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\AbstracaoInterfaces.dll
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\refint\AbstracaoInterfaces.dll
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\AbstracaoInterfaces.pdb
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\AbstracaoInterfaces.genruntimeconfig.cache
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\AbstracaoInterfaces\obj\Debug\net9.0\ref\AbstracaoInterfaces.dll

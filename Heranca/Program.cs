@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
 using Heranca.models;
 
 Console.WriteLine("Escolha uma opção:");
@@ -38,7 +37,3 @@ switch (opcao)
         Console.WriteLine("Sistema encerrado!");
         break;
 }
-
-
-
-

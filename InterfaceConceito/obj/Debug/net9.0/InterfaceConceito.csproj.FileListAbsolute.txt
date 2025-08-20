@@ -1,0 +1,15 @@
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\bin\Debug\net9.0\InterfaceConceito.exe
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\bin\Debug\net9.0\InterfaceConceito.deps.json
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\bin\Debug\net9.0\InterfaceConceito.runtimeconfig.json
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\bin\Debug\net9.0\InterfaceConceito.dll
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\bin\Debug\net9.0\InterfaceConceito.pdb
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\InterfaceConceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\InterfaceConceito.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\InterfaceConceito.AssemblyInfo.cs
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\InterfaceConceito.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\InterfaceConceito.sourcelink.json
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\InterfaceConceito.dll
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\refint\InterfaceConceito.dll
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\InterfaceConceito.pdb
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\InterfaceConceito.genruntimeconfig.cache
+C:\Users\Giancarlo\programacao\DotNetExemploPOO\InterfaceConceito\obj\Debug\net9.0\ref\InterfaceConceito.dll
